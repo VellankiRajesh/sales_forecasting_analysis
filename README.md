@@ -60,5 +60,4 @@ The project aims to help businesses make data-driven decisions by:
 
 ---
 
-## 📁 Project Structure
 
